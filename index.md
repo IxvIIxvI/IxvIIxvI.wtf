@@ -9,7 +9,7 @@ I Post Vape Capes And Stuff Here,
 I also will put scripts Here
 ````
 
-#Discord
+# Discord
 https://discord.io/IxvI
 
 
@@ -33,7 +33,7 @@ Rise | loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/R
 SoftBed | loadstring(game:HttpGet("https://raw.githubusercontent.com/YZHacker0/BedwarsGUI/main/bad.lua", true))()
 ````
 
-#Capes
+# Capes
 
 ![whatsapp](https://user-images.githubusercontent.com/100976333/174499141-4a940e5e-7e3c-41c6-80bd-4b177509c190.png)
 ![VapeqCape](https://user-images.githubusercontent.com/100976333/174499142-f066ac57-67e6-401e-aa57-cbc5898eb2cc.png)
