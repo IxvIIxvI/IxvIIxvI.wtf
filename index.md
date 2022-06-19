@@ -42,8 +42,6 @@ SoftBed | loadstring(game:HttpGet("https://raw.githubusercontent.com/YZHacker0/B
 ![VapeCapecute-3](https://user-images.githubusercontent.com/100976333/174499145-bb8c2c32-fe0e-433e-8de4-e4f1224960e4.png)
 ![Va111peCape](https://user-images.githubusercontent.com/100976333/174499146-3d9483dc-7618-4814-b641-28a112988f5f.png)
 ![Lea1f_V3_1](https://user-images.githubusercontent.com/100976333/174499147-beed7452-ecba-4ffb-a5c2-3d888486bb34.png)
-![IMG_0576](https://user-images.githubusercontent.com/100976333/174499148-570be598-9818-4ded-ba7c-243f3c108c0b.png)
-![rektsky_cape](https://user-images.githubusercontent.com/100976333/174499149-ed2a2912-c1a4-4a60-937b-0d95c2fe791b.png)
 ![1](https://user-images.githubusercontent.com/100976333/174499150-8af11af0-1295-491a-b9c0-0ac5e5559df1.png)
 ![unkn2own](https://user-images.githubusercontent.com/100976333/174499152-f338f200-3827-4c80-aa9d-5874a1836247.png)
 ![ris22e](https://user-images.githubusercontent.com/100976333/174499153-dd59e70d-a110-4312-bbf1-d8872e3a6a3b.jpg)
