@@ -47,7 +47,6 @@ SoftBed | loadstring(game:HttpGet("https://raw.githubusercontent.com/YZHacker0/B
 ![ris22e](https://user-images.githubusercontent.com/100976333/174499153-dd59e70d-a110-4312-bbf1-d8872e3a6a3b.jpg)
 ![Panda_Ware](https://user-images.githubusercontent.com/100976333/174499154-7e31b628-d52c-44b9-a742-3125fffed09c.png)
 ![Skid_Gaming](https://user-images.githubusercontent.com/100976333/174499155-f11ccd81-f8e1-41e8-9008-210f6be16b64.png)
-![IMG_0563](https://user-images.githubusercontent.com/100976333/174499157-8e2c5efe-7b81-435e-91e4-aad0d048967d.png)
 ![unknown](https://user-images.githubusercontent.com/100976333/174499158-f44080d0-f2d7-44e1-b17c-f70c9afbf5de.png)
 ![VapeCape](https://user-images.githubusercontent.com/100976333/174499159-ff43696a-5727-40ed-9257-16fa9ab852fb.png)
 ![51DE6069-6BCD-4AB2-B868-4E6185D51BBA](https://user-images.githubusercontent.com/100976333/174499160-a04cf3e3-ab49-4786-a9db-e12779215dbe.jpg)
